@@ -70,7 +70,7 @@ variable "zone2" {
 }
 
 variable "ssh_public_key" {
-  default = "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCnHFJgvga+/SRgK5HaE3x4cDhy+26MwlTPkHpbRvQNkgoQ7yC80qtb6C9z+f8AqbEMj/xFtmrGkoqywBGAG8oINNiZ7jQwaxoiQ62KgV6lie2Az9IvEA2Mr90IxcEvn5cyQWm947IhqE5Mh/ANXFXFrhJIM5odnqWcWeB4XwZ1qURymcI5EKpFn+Qqajhs7vrv5kFOWebHC7/OlLggnb0brPWA9jhli6hcIbIUxewIEXQlTkZEqSVM/qSS1D8rG1Uw/ZMPc4zmKwPizaqu5+pDDMNVz2XMINHdkKEFAjcc24GCg8Bkc2N2OwISBYp38+d7LXvBJJlDfNen3Y4EBbYL vaishnavi@vaishnavis-MacBook-Pro.local"
+  default = ""
 }
 
 variable "image" {
